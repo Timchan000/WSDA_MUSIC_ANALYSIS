@@ -11,9 +11,13 @@ the discrepancy occurred between the years 2011 and 2012. But that’s about all
 knows for certain.
 
 You have been called in to do what you do best—apply your SQL skills:
+
 • Analyze WSDA Music’s Data to:
+
 −− Get a list of suspects
+
 −− Narrow your list
+
 −− Pinpoint your prime suspect(s)
 
 The Management team at WSDA Music is eager to review your findings!
